@@ -39,3 +39,13 @@ https://hub.docker.com/repository/docker/lipyon/custom-nginx/general
 <img width="592" height="45" alt="image" src="https://github.com/user-attachments/assets/a9f2473d-3fd4-4cea-9252-3e04dd322c1a" />
 
 
+Задание 4
+<img width="975" height="252" alt="image" src="https://github.com/user-attachments/assets/08f0b5ea-d085-439c-b949-4d2acb3953a4" />
+
+<img width="975" height="174" alt="image" src="https://github.com/user-attachments/assets/9848224d-e995-49a5-978d-6b739ab55722" />
+
+<img width="797" height="131" alt="image" src="https://github.com/user-attachments/assets/ce3d3f7c-1e6b-4dd3-9ff5-43e8381ec346" />
+
+<img width="869" height="247" alt="image" src="https://github.com/user-attachments/assets/cce2bd12-f36f-4933-b245-16770791a9b1" />
+
+
