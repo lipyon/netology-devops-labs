@@ -18,6 +18,8 @@ https://hub.docker.com/repository/docker/lipyon/custom-nginx/general
 
 <img width="975" height="68" alt="image" src="https://github.com/user-attachments/assets/76ab767c-1005-4cea-87e7-59bf23e25225" />
 
+Контейнер остановился потому, что процесс nginx остановился после Ctrl+C следовательно основной процесс контейнера завершился
+
 <img width="975" height="157" alt="image" src="https://github.com/user-attachments/assets/5f8ee8f9-9f7f-4cdd-8656-8453e9006d94" />
 
 <img width="975" height="159" alt="image" src="https://github.com/user-attachments/assets/e32cb7f7-1de3-4888-89c9-f81d9034c783" />
