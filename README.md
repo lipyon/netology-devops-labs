@@ -36,3 +36,6 @@ https://hub.docker.com/repository/docker/lipyon/custom-nginx/general
 
 Проблема возникла из-за некорректности сопоставление портов так-как на фактическом хосту порт прослушивания 8080:80 , а на виртуальном 81 соответственно на хосте обращаться на 80 порт нет смысла потому что 80 порт свободен
 
+<img width="592" height="45" alt="image" src="https://github.com/user-attachments/assets/a9f2473d-3fd4-4cea-9252-3e04dd322c1a" />
+
+
