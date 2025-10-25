@@ -48,4 +48,36 @@ https://hub.docker.com/repository/docker/lipyon/custom-nginx/general
 
 <img width="869" height="247" alt="image" src="https://github.com/user-attachments/assets/cce2bd12-f36f-4933-b245-16770791a9b1" />
 
+Задание 5
 
+<img width="975" height="209" alt="image" src="https://github.com/user-attachments/assets/619390a7-8ae6-4550-968f-035001703e0a" />
+
+Запуск в таком порядке обосновывается документацией так как в приретете ищется файл compose.yaml потом compose.yml далее docker-compose.yaml
+
+<img width="844" height="552" alt="image" src="https://github.com/user-attachments/assets/940efba3-526d-41da-9912-16b48865da7e" />
+
+<img width="975" height="178" alt="image" src="https://github.com/user-attachments/assets/8c420c73-d255-4952-83b2-a0340e8c92aa" />
+
+<img width="975" height="427" alt="image" src="https://github.com/user-attachments/assets/373ec998-308b-4d7d-9873-e48035e278b5" />
+
+<img width="975" height="243" alt="image" src="https://github.com/user-attachments/assets/b12f2123-e90b-46f2-8ab5-8f0a3ab90566" />
+
+<img width="975" height="681" alt="image" src="https://github.com/user-attachments/assets/bbe5e0bc-e3d3-4937-bc53-6c06776a31e3" />
+
+<img width="975" height="633" alt="image" src="https://github.com/user-attachments/assets/d511bf76-8585-4b73-ae38-588aefe04139" />
+
+<img width="975" height="503" alt="image" src="https://github.com/user-attachments/assets/ad0c393a-d1ad-4d7f-8827-bc57b7113624" />
+
+<img width="975" height="517" alt="image" src="https://github.com/user-attachments/assets/8f2c1d37-60ba-49f5-9bb8-ff3ba174f448" />
+
+<img width="975" height="286" alt="image" src="https://github.com/user-attachments/assets/e1212efb-7fd6-4c3d-990b-f94d7333b3b2" />
+
+<img width="975" height="846" alt="image" src="https://github.com/user-attachments/assets/73274840-49d5-4ed8-8a47-4d6d38e3e5c1" />
+
+<img width="975" height="1035" alt="image" src="https://github.com/user-attachments/assets/98462542-c553-42f7-8615-cc60da92bc34" />
+
+<img width="903" height="497" alt="image" src="https://github.com/user-attachments/assets/13abd835-931e-4972-91cc-f289b1a979f6" />
+
+<img width="975" height="71" alt="image" src="https://github.com/user-attachments/assets/05866d08-d9e7-4f69-8c7e-995af8d2af42" />
+
+<img width="975" height="74" alt="image" src="https://github.com/user-attachments/assets/664e5764-19e1-42c4-ad1f-2670f29c7432" />
